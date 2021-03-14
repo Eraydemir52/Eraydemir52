@@ -17,7 +17,7 @@ Contact with me via these platforms!
   <a href="mailto:eraydemir5225@gmail.com" target="_blank" rel="nofollow"><img alt="Eray's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-##  🛠 Teknolojiler ve Araçlar
+## 🛠 Technologies & Tools
 <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </img>
 <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> </img>
 <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> </img>
@@ -39,8 +39,8 @@ Contact with me via these platforms!
 
 Here are some ideas to get you started:
 
-- 🔭 Şu anda üzerinde çalışıyorum ... Tekirdağ Namık Kemal Üniversitesi'nde okuyorum
-- 🌱 Şu anda öğreniyorum ... C #
+- 🔭 I’m currently working on ... I am studying at Tekirdağ Namık Kemal University (Computer Engineering)
+- 🌱 I’m currently learning ... C #
 -
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/erayy_dmrr/)
 
