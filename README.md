@@ -1,7 +1,7 @@
 
-[! [ GitHub takipçileri ] (https://img.shields.io/github/followers/Eraydemir52?style=social)] (https://github.com/Eraydemir52?tab=followers)
-! [ GitHub yıldızları ] (https://img.shields.io/github/stars/Eraydemir52?style=social)
-[! [ Github ziyaretçileri ] (https://visitor-badge.glitch.me/badge?page_id=Eraydemir52.visitor-badge)] (https://GitHub.com/Eraydemir52/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/fatihkayan20?style=social)](https://github.com/fatihkayan20?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/fatihkayan20?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=fatihkayan20.visitor-badge)](https://GitHub.com/fatihkayan20/StrapDown.js/stargazers/)
 
 
 
