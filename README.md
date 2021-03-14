@@ -13,8 +13,8 @@ Eray benim! Web ve Arka uç ile ilgili projelerde kendimi geliştiriyorum.
 
 Bu platformlar üzerinden benimle iletişime geçin! 
 
-  <a href="https://www.linkedin.com/in/eray-demir-63b1a31b9/" target="_blank" rel="nofollow"> <img alt = "Eray Bağlantısı" src = "https: //img.shields. io / badge / LinkedIn-0077B5? style = for-the-badge & logo = linkedin & logoColor = white "/> </a>
-  <a href="mailto:eraydemir5225@gmail.com" target="_blank" rel="nofollow"> <img alt = "Eray'in Posta Adresi" src = "https://img.shields.io/badge/ Gmail-D14836? Style = for-the-badge & logo = gmail & logoColor = white "/> </a>
+ <a href="https://www.linkedin.com/in/fatihkayan/" target="_blank" rel="nofollow"><img alt="Fatih's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fatih.kayan83@gmail.com" target="_blank" rel="nofollow"><img alt="Fatih's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 ##  🛠 Teknolojiler ve Araçlar
