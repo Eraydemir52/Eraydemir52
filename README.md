@@ -1,6 +1,5 @@
 ### Hi there 👋
-[! [ GitHub takipçileri ] (https://img.shields.io/github/followers/Eraydemir52?style=social)] (https://github.com/
-Eraydemir52?tab=followers)
+[! [ GitHub takipçileri ] (https://img.shields.io/github/followers/Eraydemir52?style=social)] (https://github.com/Eraydemir52?tab=followers)
 ! [ GitHub yıldızları ] (https://img.shields.io/github/stars/Eraydemir52?style=social)
 [! [ Github ziyaretçileri ] (https://visitor-badge.glitch.me/badge?page_id=Eraydemir52.visitor-badge)] (https://GitHub.com/Eraydemir52/StrapDown.js/stargazers/)
 
