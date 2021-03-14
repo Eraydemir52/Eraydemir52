@@ -23,16 +23,16 @@ Bu platformlar üzerinden benimle iletişime geçin!
 <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> </img>
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </img>
 
-##  📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Eraydemir52&count_private=true&show_icons=true&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Eraydemir52&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eraydemir52&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eraydemir52&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   <a href="https://github.com/Eraydemir52/Eraydemir52">
-    <img src = "https://github-readme-stats.vercel.app/api/pin?username=Eraydemir52&repo=Eraydemir52t&show_icons=true&theme=tokyonight" </img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Eraydemir52&repo=Eraydemir52&show_icons=true&theme=tokyonight"</img>
   </a>
   <a href="https://github.com/Eraydemir52/Eraydemir52">
-    <img src = "https://github-readme-stats.vercel.app/api/pin?username=Eraydemir52&repo=Eraydemir52&show_icons=true&theme=tokyonight" </img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Eraydemir52&repo=Eraydemir52&show_icons=true&theme=tokyonight"</img>
   </a>
 </p>
 
