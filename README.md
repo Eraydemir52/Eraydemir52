@@ -43,5 +43,5 @@ Burada başlamanız için birkaç fikir var:
 - 🔭 Şu anda üzerinde çalışıyorum ... Tekirdağ Namık Kemal Üniversitesi'nde okuyorum
 - 🌱 Şu anda öğreniyorum ... C #
 -
-- 📫 How to reach me: ... [ Instagram ] (https://www.instagram.com/erayy_dmrr/)
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/fatihkayann20/)
 
