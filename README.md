@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-Eray benim! Web ve Arka uç ile ilgili projelerde kendimi geliştiriyorum.
+I'm Eray! I am improving myself on projects related to web and backend.
 
 Contact with me via these platforms!
 
