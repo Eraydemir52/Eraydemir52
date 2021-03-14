@@ -37,8 +37,7 @@ Contact with me via these platforms!
 </p>
 
 
-
-Burada başlamanız için birkaç fikir var:
+Here are some ideas to get you started:
 
 - 🔭 Şu anda üzerinde çalışıyorum ... Tekirdağ Namık Kemal Üniversitesi'nde okuyorum
 - 🌱 Şu anda öğreniyorum ... C #
