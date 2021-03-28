@@ -15,7 +15,7 @@ Contact with me via these platforms!
 
  <a href="https://www.linkedin.com/in/eray-demir-63b1a31b9/" target="_blank" rel="nofollow"><img alt="Eray's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:eraydemir5225@gmail.com" target="_blank" rel="nofollow"><img alt="Eray's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![Linkedin Badge](https://img.shields.io/badge/keremvaris-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keremvaris/)
+  [![Linkedin Badge](https://img.shields.io/badge/eraydemir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eray-demir-63b1a31b9/)
 
 
 ## 🛠 Technologies & Tools
