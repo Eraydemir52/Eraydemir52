@@ -15,7 +15,7 @@ Contact with me via these platforms!
 
 [![Linkedin Badge](https://img.shields.io/badge/eraydemir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eray-demir-63b1a31b9/)
 [![Instagram Badge](https://img.shields.io/badge/eraydemir-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/erayy_dmrr/)
-  <a href="mailto:eraydemir5225@gmail.com"  rel="nofollow"><img alt="Eray's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:eraydemir5225@gmail.com" target="_blank" rel="nofollow"><img alt="Eray's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 
 ## 🛠 Technologies & Tools
