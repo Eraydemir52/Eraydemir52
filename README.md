@@ -25,8 +25,8 @@ Contact with me via these platforms!
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> </img>
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </img>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
-<a href="https://www.flaticon.com/free-icons/logo" title="logo icons">Logo icons created by Freepik - Flaticon</a>
+<img src="https://img.shields.io/badge/Css-red?style=for-the-badge&logo=Java&logoColor=white"></img>
+
 
 
 
