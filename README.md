@@ -21,7 +21,7 @@ Contact with me via these platforms!
 ## 🛠 Technologies & Tools
 <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </img>
 <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> </img>
-<img alt="Angular" src="https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white
+<img alt="React" src="[https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 "/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white"> </img>
